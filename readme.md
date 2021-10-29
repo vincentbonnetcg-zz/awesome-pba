@@ -78,6 +78,10 @@ SIGGRAPH 2011. [[PDF](https://graphics.ethz.ch/Downloads/Publications/Papers/201
 *Barrielle, Vincent, Nicolas Stoiber, and Cédric Cagniart.*<br>
 2016. [[Website](https://www.researchgate.net/publication/303597948_BlendForces_A_Dynamic_Framework_for_Facial_Animation)]
 
+**Rig-Space Physics.**<br>
+*Hahn, Fabian, Sebastian Martin, Bernhard Thomaszewski, Robert Sumner, Stelian Coros, and Markus Gross.*<br>
+2012. [[PDF](http://crl.ethz.ch/papers/RigSpacePhysics.pdf)]
+
 **A Simple Approach to Nonlinear Tensile Stiffness for Accurate Cloth Simulation.**<br>
 *Volino, Pascal, Nadia Magnenat-Thalmann, and Francois Faure.*<br>
 2009. [[PDF](https://hal.inria.fr/inria-00394466/document)]
