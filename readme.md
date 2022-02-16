@@ -19,6 +19,10 @@
 
 A list of papers about time integrations as an optimization problem (Newton methods, Quasi-Newton, Coordinate descent ...).
 
+**Fast Simulation of Deformable Characters with Articulated Skeletons in Projective Dynamics.**<br>
+*Jing Li, Tiantian Liu, and Ladislav Kavan.*<br>
+2019. [[PDF](https://tiantianliu.cn/papers/li2019fast/li2019fast.pdf)]
+
 **Stabilizing Integrators for Real-Time Physics.**<br>
 *Dinev, Dimitar, Tiantian Liu, and Ladislav Kavan.*<br>
 2018. [[PDF](https://www.cs.utah.edu/~ladislav/dinev18stabilizing/dinev18stabilizing.pdf)]
